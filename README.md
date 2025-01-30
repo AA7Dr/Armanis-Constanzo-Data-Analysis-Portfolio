@@ -2,7 +2,7 @@
 
 
 
-# [Association Rule Mining in Course Catalog Data] https://github.com/YOUNGACDC/Association-Rules/blob/main/README.md
+# [Project 1 Association Rule Mining in Course Catalog Data] https://github.com/YOUNGACDC/Association-Rules/blob/main/README.md
 
 
 
