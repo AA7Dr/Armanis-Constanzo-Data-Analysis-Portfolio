@@ -28,4 +28,4 @@
 
 # [Project 6 using Native Bayes Model](https://github.com/YOUNGACDC/Accident-Data-Classification-using-Naive-Bayes-)
 
-# [Project 7 Alpaca-Trading-Bot](https://github.com/YOUNGACDC/Alpaca-TradingBot/settings/pages)
+# [Project 7 Alpaca-Trading-Bot](https://github.com/YOUNGACDC/Alpaca-TradingBot)
