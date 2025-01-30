@@ -23,6 +23,6 @@
 # [Project 5 Neural-Network-Classification-on-Credit-Usage]https://github.com/YOUNGACDC/Neural-Network-Classification-on-Credit-Usage/blob/main/README.md
 
 
-# [Project 6 using Native Bayes Model]https://youngacdc.github.io/Accident-Data-Classification-using-Naive-Bayes-/
+# [Project 6 using Native Bayes Model]https://github.com/YOUNGACDC/Accident-Data-Classification-using-Naive-Bayes-
 
 # [Project 7 Alpaca-Trading-Bot]https://github.com/YOUNGACDC/Alpaca-TradingBot
