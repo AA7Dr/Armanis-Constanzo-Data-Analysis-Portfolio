@@ -1,7 +1,7 @@
 # Armanis-Constanzo-Data-Analysis-Portfolio
 
 
-## This repository showcases a collection of data analysis projects, ranging from predictive modeling to exploratory analysis and optimization techniques. Each project leverages a variety of tools, such as machine learning algorithms, statistical methods, and data visualization, to gain insights from different datasets. The portfolio includes projects on sentiment analysis, stock portfolio optimization, task completion prediction, neural network classification, and more. It aims to demonstrate a broad understanding of data science methodologies and the ability to apply them to real-world scenarios. Feel free to explore, fork, or contribute to any of the projects.
+## This repository showcases a collection of data analysis projects, ranging from predictive modeling to exploratory analysis and optimization techniques. Each project leverages a variety of tools such as machine learning algorithms, statistical methods, and data visualization to gain insights from different datasets. The portfolio includes projects on sentiment analysis, stock portfolio optimization, task completion prediction, neural network classification, and more. It aims to demonstrate a broad understanding of data science methodologies and the ability to apply them to real-world scenarios. Feel free to explore, fork, or contribute to any of the projects.
 
 
 
