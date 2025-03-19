@@ -7,7 +7,7 @@
 
 # [Project 1 Association Rule Mining in Course Catalog Data](https://github.com/YOUNGACDC/Association-Rules)
 
-# [Project 2 Tableau Visuals & Analysis](https://aa7dr.github.io/Tableau-Dashboard/)
+# [Project 2 Tableau Visuals & Analysis](https://github.com/AA7Dr/Tableau-Dashboard)
 
 # [Project 3 Cereal-Dataset-PCA-and-Exploratory-Analysis](https://github.com/YOUNGACDC/Cereal-Dataset-PCA-and-Exploratory-Analysis)
 
