@@ -9,19 +9,19 @@
 
 # [Tableau Videogame Visuals & Analysis](https://github.com/AA7Dr/Tableau-Dashboard)
 
-# [Cereal-Dataset-PCA-and-Exploratory-Analysis](https://github.com/YOUNGACDC/Cereal-Dataset-PCA-and-Exploratory-Analysis)
+# [Cereal Dataset PCA and Exploratory-Analysis](https://github.com/YOUNGACDC/Cereal-Dataset-PCA-and-Exploratory-Analysis)
 
-# [Sentiment-Analysis-and-Stock-Returns-Visualization](https://github.com/YOUNGACDC/Sentiment-Analysis-and-Stock-Returns-Visualization)
+# [Sentiment Analysis and Stock Returns Visualization](https://github.com/YOUNGACDC/Sentiment-Analysis-and-Stock-Returns-Visualization)
 
-# [System-Administrators-Task-Completion-Prediction](https://github.com/YOUNGACDC/System-Administrators-Task-Completion-Prediction)
+# [System Administrators Task Completion Prediction](https://github.com/YOUNGACDC/System-Administrators-Task-Completion-Prediction)
 
-# [Stock-Portfolio-Optimization-Analysis Techniques](https://github.com/YOUNGACDC/Stock-Analysis-Optimization-Techniques)
+# [Stock Portfolio Optimization Analysis Techniques](https://github.com/YOUNGACDC/Stock-Analysis-Optimization-Techniques)
 ### (Includes many scripts / projects)
 
-# [Neural-Network-Classification-on-Credit-Usage](https://github.com/YOUNGACDC/Neural-Network-Classification-on-Credit-Usage)
+# [Neural Network Classification on Credit Usage](https://github.com/YOUNGACDC/Neural-Network-Classification-on-Credit-Usage)
 
 # [Accident Data Classification using Native Bayes Model](https://github.com/YOUNGACDC/Accident-Data-Classification-using-Naive-Bayes-)
 
-# [Alpaca-Trading-Bot](https://github.com/YOUNGACDC/Alpaca-TradingBot)
+# [Alpaca Trading Bot](https://github.com/YOUNGACDC/Alpaca-TradingBot)
 
 
