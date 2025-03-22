@@ -7,7 +7,7 @@
 
 # [Association Rule Mining in Course Catalog Data](https://github.com/YOUNGACDC/Association-Rules)
 
-# [Tableau Visuals & Analysis](https://github.com/AA7Dr/Tableau-Dashboard)
+# [Tableau Videogame Visuals & Analysis](https://github.com/AA7Dr/Tableau-Dashboard)
 
 # [Cereal-Dataset-PCA-and-Exploratory-Analysis](https://github.com/YOUNGACDC/Cereal-Dataset-PCA-and-Exploratory-Analysis)
 
