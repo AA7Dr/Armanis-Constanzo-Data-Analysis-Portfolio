@@ -20,7 +20,7 @@
 
 # [Neural-Network-Classification-on-Credit-Usage](https://github.com/YOUNGACDC/Neural-Network-Classification-on-Credit-Usage)
 
-# [Native Bayes Model](https://github.com/YOUNGACDC/Accident-Data-Classification-using-Naive-Bayes-)
+# [Accident Data Classification using Native Bayes Model](https://github.com/YOUNGACDC/Accident-Data-Classification-using-Naive-Bayes-)
 
 # [Alpaca-Trading-Bot](https://github.com/YOUNGACDC/Alpaca-TradingBot)
 
