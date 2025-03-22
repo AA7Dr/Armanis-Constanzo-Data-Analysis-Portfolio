@@ -9,7 +9,7 @@
 
 # [Tableau Videogame Visuals & Analysis](https://github.com/AA7Dr/Tableau-Dashboard)
 
-# [Cereal Dataset PCA and Exploratory-Analysis](https://github.com/YOUNGACDC/Cereal-Dataset-PCA-and-Exploratory-Analysis)
+# [Cereal Dataset PCA and Exploratory Analysis](https://github.com/YOUNGACDC/Cereal-Dataset-PCA-and-Exploratory-Analysis)
 
 # [Sentiment Analysis and Stock Returns Visualization](https://github.com/YOUNGACDC/Sentiment-Analysis-and-Stock-Returns-Visualization)
 
